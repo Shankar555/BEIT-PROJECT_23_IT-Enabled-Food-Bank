@@ -1,5 +1,4 @@
-Project Title (23)
-IT Enabled Food Bank
+BEIT-PROJECT_23_IT Enabled Food Bank
 
 Group Members
 1) Shankar Pedenkar (16204027)
