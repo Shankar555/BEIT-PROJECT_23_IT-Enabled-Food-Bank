@@ -4,7 +4,7 @@
 1) Shankar Pedenkar (16204027)
 2) Vimal Sharma     (15104044)
 3) Sagar Randive    (16204001)
-## Under the guidance of
+### Under the guidance of
 Prof.Ganesh Gourshete
 
 ## Description
