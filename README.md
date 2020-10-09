@@ -1,4 +1,4 @@
-# T Enabled Food Bank
+# IT Enabled Food Bank
 
 ### Group Members
 1) Shankar Pedenkar (16204027)
